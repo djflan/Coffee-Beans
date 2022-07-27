@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "c:\\temp\\Coffee Beans\\Coffee Beans\\Coffee Beans.csproj": {}
+    "C:\\temp\\Coffee Beans\\Coffee Beans\\Coffee Beans.csproj": {}
   },
   "projects": {
-    "c:\\temp\\Coffee Beans\\Coffee Beans\\Coffee Beans.csproj": {
+    "C:\\temp\\Coffee Beans\\Coffee Beans\\Coffee Beans.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\temp\\Coffee Beans\\Coffee Beans\\Coffee Beans.csproj",
+        "projectUniqueName": "C:\\temp\\Coffee Beans\\Coffee Beans\\Coffee Beans.csproj",
         "projectName": "Coffee Beans",
-        "projectPath": "c:\\temp\\Coffee Beans\\Coffee Beans\\Coffee Beans.csproj",
+        "projectPath": "C:\\temp\\Coffee Beans\\Coffee Beans\\Coffee Beans.csproj",
         "packagesPath": "C:\\Users\\dflanigan\\.nuget\\packages\\",
         "outputPath": "c:\\temp\\Coffee Beans\\Coffee Beans\\obj\\",
         "projectStyle": "PackageReference",
