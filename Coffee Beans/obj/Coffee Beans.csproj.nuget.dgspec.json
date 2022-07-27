@@ -11,7 +11,7 @@
         "projectName": "Coffee Beans",
         "projectPath": "C:\\temp\\Coffee Beans\\Coffee Beans\\Coffee Beans.csproj",
         "packagesPath": "C:\\Users\\dflanigan\\.nuget\\packages\\",
-        "outputPath": "c:\\temp\\Coffee Beans\\Coffee Beans\\obj\\",
+        "outputPath": "C:\\temp\\Coffee Beans\\Coffee Beans\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
